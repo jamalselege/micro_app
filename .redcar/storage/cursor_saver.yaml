@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-22 15:15:58 +02:00
+  - :path: app/controllers/micropos_controller.rb
+    :cursor_offset: 170
+    :timestamp: 2013-07-22 14:48:23 +02:00
+  - :path: app/views/micropos/_form.html.erb
+    :cursor_offset: 373
+    :timestamp: 2013-07-22 15:03:33 +02:00
+  - :path: app/views/users/index.html.erb
+    :cursor_offset: 438
+    :timestamp: 2013-07-22 14:55:17 +02:00
+files_to_retain: 0

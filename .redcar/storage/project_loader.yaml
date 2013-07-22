@@ -1,0 +1,6 @@
+--- 
+open_files: 
+  - config/routes.rb
+  - app/controllers/micropos_controller.rb
+  - app/views/users/index.html.erb
+  - app/views/micropos/_form.html.erb
